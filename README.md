@@ -21,3 +21,4 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 - daniel.zamoramata@ucr.ac.cr
 - dazamora@uned.cr
 - https://www.facebook.com/Psideralis/
+- https://www.researchgate.net/profile/Daniel-Zamora-Mata-2
