@@ -14,3 +14,10 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 ## Personal
 - OpenMeriks (Fase inicial): Bioinformática, Dinámica molecular (https://github.com/DanZamora/OpenMeriks)
 - OpenSideris (Fase inicial): Astroinformática, Dinámica celeste (Temporarily closed repository)
+- Syntheon (Fase inicial): Biblioinformática, Privado comercial.
+
+## Contacto
+- psideralis@gmail.com
+- daniel.zamoramata@ucr.ac.cr
+- dazamora@uned.cr
+- https://www.facebook.com/Psideralis/
