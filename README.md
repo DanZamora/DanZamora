@@ -11,6 +11,7 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 - Estructuras de Datos y Algoritmos (En Progreso, Data Structures and Algorithms): https://github.com/Psideralis/Data-Structures-and-Algorithms
 - Herramientas Binarias (En Progreso, Binary Toolkit [Suppresor]): https://github.com/Psideralis/Binary-Toolkit
 - Utilidades Matemáticas (En Progreso, Math Utilities [uLTRALogik]): https://gitlab.com/Psideralis/math-utilities
+- Utilidades Técnocientífica (En Progreso, Technoscientific Utilities [Hyperscientia]): https://gitlab.com/Psideralis/scientific-utilities
 ## Personal
 - OpenMeriks (Fase inicial): Bioinformática, Dinámica molecular (https://github.com/DanZamora/OpenMeriks)
 - OpenSideris (Fase preinicial): Astroinformática, Dinámica celeste (https://gitlab.com/Foxlord/OpenSideris)
