@@ -13,7 +13,7 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 - Utilidades Matemáticas (En Progreso, Math Utilities [uLTRALogik]): https://gitlab.com/Psideralis/math-utilities
 ## Personal
 - OpenMeriks (Fase inicial): Bioinformática, Dinámica molecular (https://github.com/DanZamora/OpenMeriks)
-- OpenSideris (Fase inicial): Astroinformática, Dinámica celeste (Temporarily closed repository)
+- OpenSideris (Fase preinicial): Astroinformática, Dinámica celeste (https://gitlab.com/Foxlord/OpenSideris)
 - Syntheon (Fase inicial): Biblioinformática, Privado comercial.
 
 ## Contacto
