@@ -18,8 +18,8 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 - Syntheon (Fase inicial): Biblioinformática, Privado comercial.
 
 ## Contacto
-- psideralis@gmail.com
-- daniel.zamoramata@ucr.ac.cr
-- dazamora@uned.cr
-- https://www.facebook.com/Psideralis/
-- https://www.researchgate.net/profile/Daniel-Zamora-Mata-2
+- Empresarial: psideralis@gmail.com, https://www.facebook.com/Psideralis/
+- Estudiantil: daniel.zamoramata@ucr.ac.cr, https://www.researchgate.net/profile/Daniel-Zamora-Mata-2
+- Estudiantil: dazamora@uned.cr
+- Laboral: https://www.linkedin.com/in/dan-zamoram/
+- Personal: https://danielzamoramata.medium.com
