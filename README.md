@@ -12,8 +12,9 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 - Herramientas Binarias (En Progreso, Binary Toolkit [Suppresor]): https://github.com/Psideralis/Binary-Toolkit
 - Utilidades Matemáticas (En Progreso, Math Utilities [uLTRALogik]): https://gitlab.com/Psideralis/math-utilities
 - Utilidades Técnocientífica (En Progreso, Technoscientific Utilities [Hyperscientia]): https://gitlab.com/Psideralis/scientific-utilities
+- 
 ## Personal
-- OpenMeriks (Fase inicial): Bioinformática, Dinámica molecular (https://github.com/DanZamora/OpenMeriks)
+- OpenMeriks (Fase inicial): Bioinformática, Dinámica molecular. PRIS-Lab UCR. Contactar al PRIS-Lab para informacion.
 - OpenSideris (Fase preinicial): Astroinformática, Dinámica celeste (https://gitlab.com/Foxlord/OpenSideris)
 - Syntheon (Fase inicial): Biblioinformática, Privado comercial.
 
