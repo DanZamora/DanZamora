@@ -1,7 +1,7 @@
 # Perfil
-Soy un programador costarricense, estudiante de Ingeniería (Informática:UNED, Eléctrica:UCR), titulado Técnico en Computación e Informática (UNED) y emprendedor en mi propia empresa Psideralis (https://psideralis.github.io/) desde el 2020, donde ofrezco servicios hibridos de informática empresarial y emprendimiento digital, y código abierto o software libre a la comunidad informática y público en general, especializado en lógica-matemática computacional y ciencias de la computación.
+Soy un programador costarricense, estudiante de Ingeniería (Informática:UNED, Eléctrica:UCR), titulado Técnico en Computación e Informática (UNED) y emprendedor en mi propia empresa Psideralis (https://psideralis.github.io/) desde el 2020, donde ofrezco servicios hibridos en la nube de informática empresarial, informática tecnocientífica y emprendimiento digital, además de software libre a la comunidad informática y público en general, especializado en lógica-matemática computacional, ciencias de la computación y ciberseguridad.
 
-Estoy especializado en bioinformática, principalmente en el área de inteligencia artificial aplicado al descubrimiento de vacunas y antigenos, mediante el uso de aprendizaje de máquina y mecánica molecular. Soy integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica.
+Estoy especializado en bioinformática, principalmente en el área de inteligencia artificial aplicado al descubrimiento de vacunas y contrapatógenos, así como provitógenos y promotores, mediante el uso de aprendizaje de máquina y mecánica molecular. Soy integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y he sido asistente de Lógica Simbólica en la Escuela de Filosofía de la Universidad de Costa Rica. Tambien realizo investigación en astroinformática en modelos de exmersión-inmersión cuantico relativistas y cosmología de cuerdas o postcuantica.
 
 # Publicaciones:
 - Román-Brenes, R., Siles-Canales, F., & Zamora-Mata, D. (2020). Plataforma computacional de acoplamiento de proteínas basado en plantillas. Revista Tecnología En Marcha, 33(5), Pág. 96–100. https://doi.org/10.18845/tm.v33i5.5084
@@ -12,11 +12,11 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 - Herramientas Binarias (En Progreso, Binary Toolkit [Suppresor]): https://github.com/Psideralis/Binary-Toolkit
 - Utilidades Matemáticas (En Progreso, Math Utilities [uLTRALogik]): https://gitlab.com/Psideralis/math-utilities
 - Utilidades Técnocientífica (En Progreso, Technoscientific Utilities [Hyperscientia]): https://gitlab.com/Psideralis/scientific-utilities
-- 
+
 ## Personal
-- OpenMeriks (Fase inicial): Bioinformática, Dinámica molecular. PRIS-Lab UCR. Contactar al PRIS-Lab para informacion.
-- OpenSideris (Fase preinicial): Astroinformática, Dinámica celeste (https://gitlab.com/Foxlord/OpenSideris)
-- Syntheon (Fase inicial): Biblioinformática, Privado comercial.
+- OpenMeriks (Fase inicial): Bioinformática, Dinámica molecular. PRIS-Lab UCR. Contactar al PRIS-Lab para información.
+- OpenSideris (Fase preinicial): Astroinformática, Cosmología postcuantica. (https://gitlab.com/Foxlord/OpenSideris)
+- Syntheon (Fase inicial): Biblioinformática, Inteligencia artificial. Privado comercial. Contactarme para más información.
 
 ## Contacto
 - Empresarial: psideralis@gmail.com, https://www.facebook.com/Psideralis/
