@@ -11,12 +11,12 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 
 Free Software:
 
-    Computer Scence: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
-    Programming Templates: (Coming soon)
-    C++ Extended Library: (Coming soon)
-    Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
-    Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
-    Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
+- Computer Scence: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
+- Programming Templates: (Coming soon)
+- C++ Extended Library: (Coming soon)
+- Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
+- Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
+- Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
 
 ## Personal
 - OpenMeriks (Fase inicial): Bioinformática, Dinámica molecular. PRIS-Lab UCR. Contactar al PRIS-Lab para información.
