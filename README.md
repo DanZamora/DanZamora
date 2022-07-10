@@ -11,7 +11,7 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 
 Free Software:
 
-- Computer Scence: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
+- Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
 - Programming Templates: (Coming soon)
 - C++ Extended Library: (Coming soon)
 - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
