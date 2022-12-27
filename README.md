@@ -26,6 +26,10 @@ Free Software:
 ## Personal
 - Open Meriks
 - Syntheon
+ 
+# Patrocinio:
+- Patreon: https://www.patreon.com/psideralis
+- Ko-fi: https://ko-fi.com/psideralis
 
 ## Contacto
 - Empresarial: psideralis@gmail.com, https://www.facebook.com/Psideralis/
