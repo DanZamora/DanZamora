@@ -1,7 +1,7 @@
 # Perfil
-Soy un programador costarricense, estudiante de Ingeniería (Informática:UNED, Eléctrica:UCR), titulado Técnico en Computación e Informática (UNED) y emprendedor en mi propia empresa Psideralis (https://psideralis.github.io/) desde el 2020, donde ofrezco servicios hibridos en la nube de informática empresarial, informática tecnocientífica y emprendimiento digital, además de software libre a la comunidad informática y público en general, especializado en lógica-matemática computacional, ciencias de la computación y ciberseguridad.
+Soy un programador costarricense que fundo su propia empresa Psideralis, dónde trabajo como Ingeniero Senior en Jefe. En Psideralis ofrecemos servicios informáticos de calidad global con proveedores de la nube de alto nivel con software propio con licencias libres/abiertas y comerciales/privativas en un ecosistema hibrido de computación tecnocientífica y corporativa. En Psideralis hospedamos repositorios de proyectos libres/abiertos en ciberseguridad, ciencias de la computación, matemáticas y computación científica especializados en C/C++ con integración con NodeJS y .NET. Ofrecemos soluciones comerciales/privativas para requerimientos de informática corporativa y tecnocientífica.
 
-Estoy especializado en bioinformática, principalmente en el área de inteligencia artificial aplicado al descubrimiento de vacunas y contrapatógenos, así como provitógenos y promotores, mediante el uso de aprendizaje de máquina y mecánica molecular. Soy integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y he sido asistente de Lógica Simbólica en la Escuela de Filosofía de la Universidad de Costa Rica
+Personalmente estoy especializado en AI-ML (inteligencia articial a travez de aprendizaje de máquina) y HPC (computación de alto rendimiento), principalmente en el área de bioinformática. Soy integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) en la sección BEND de Bioinformática de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y he sido asistente de Lógica Simbólica en la Escuela de Filosofía de la Universidad de Costa Rica.
 
 # Publicaciones:
 - Román-Brenes, R., Siles-Canales, F., & Zamora-Mata, D. (2020). Plataforma computacional de acoplamiento de proteínas basado en plantillas. Revista Tecnología En Marcha, 33(5), Pág. 96–100. https://doi.org/10.18845/tm.v33i5.5084
@@ -11,9 +11,9 @@ Estoy especializado en bioinformática, principalmente en el área de inteligenc
 
 Free Software:
 
-- Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
-- Programming Templates: (Coming soon)
-- C++ Extended Library: (Coming soon)
+- Computer Science: Data Structures and Algorithms & Organon Programatoriae https://github.com/Psideralis/Data-Structures-and-Algorithms
+- C/C++ Programming Templates: (Coming soon)
+- Psideralis++ Cross-Platform Library: (Coming soon)
 - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
 - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
 - Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
@@ -24,7 +24,8 @@ Free Software:
 - HyperScientia
 
 ## Personal
-- Syntherion (Fase inicial): Biblioinformática, Inteligencia artificial. Privado comercial. Contactarme para más información.
+- Open Meriks
+- Syntheon
 
 ## Contacto
 - Empresarial: psideralis@gmail.com, https://www.facebook.com/Psideralis/
