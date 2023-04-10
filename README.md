@@ -11,13 +11,16 @@ Personalmente estoy especializado en AI-ML (inteligencia articial a travez de ap
 
 Free Software:
 
-- Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
-- Computer Science: Data Structures and Algorithms & Organon Programatoriae https://github.com/Psideralis/Data-Structures-and-Algorithms
-- Psideralis++ Standard Library: (Coming soon)
-- Programming: Psideralis Programming Utilities (Coming soon)
-- Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
-- Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
-- Engineering Computation: Psideralis Engineering Utilities (Coming soon)
+- Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit (2020-2025)
+- Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (2020-2025)
+- Computer Science: Organon Programatoriae (2020-2025)
+- Computer Science: Psideralis++ Standard Library: (2025-2027)
+- Computer Science: Psideralis Programming Utilities (2025-2027)
+- Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (2020-2025)
+- Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities (2020-2025)
+- Engineering Computation: Psideralis Engineering Utilities (2025-2027)
+- Artistic Computation: Psideralis Arts & Craft Utilities (2025-2027)
+- Physiatric Computation: Psideralis Sportive & Physiatric Utilities (2025-2027)
 
 ## Commercial
 - HexMonitoriks
