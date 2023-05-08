@@ -31,6 +31,8 @@ Free Software:
 ## Personal
 - Open Meriks
 - Open Sideris
+- Open Parteoniks
+- Open Hyleoniks
  
 # Patrocinio:
 - Patreon: https://www.patreon.com/psideralis
