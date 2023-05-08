@@ -29,10 +29,10 @@ Free Software:
 - Ingenis
 
 ## Personal
-- Open Meriks
-- Open Sideris
-- Open Parteoniks
-- Open Hyleoniks
+- Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking.
+- Open Sideris: A astroinformatic modeller and visualizer, with custom parametric and initial conditions.
+- Open Parteoniks: A particular dynamics simulator specialized in collider mechanics.
+- Open Hyleoniks: A materials dynamics simulator, specialized in crystalls field condensation.
  
 # Patrocinio:
 - Patreon: https://www.patreon.com/psideralis
