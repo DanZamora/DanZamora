@@ -23,10 +23,13 @@ Free Software:
 - Physiatric Computation: Psideralis Sportive & Physiatric Utilities (2025-2027)
 
 ## Commercial
-- HexMonitoriks
-- uLTRALogik
-- HyperScientia
-- Ingenis
+- HexMonitoriks: Cybersecurity Software
+- Noema Framework: Cross-platform GUI Library
+- Nous Studio: Programming 3.0 Development Studio
+- uLTRALogik: Mathematical Studio
+- HyperScientia: Technoscientific Studio
+- Ingenis: Engineering Studio
+
 
 ## Personal
 - Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking.
@@ -37,9 +40,11 @@ Free Software:
 # Patrocinio:
 - Patreon: https://www.patreon.com/psideralis
 - Ko-fi: https://ko-fi.com/psideralis
+- Paypal: https://www.paypal.com/paypalme/psideralis
 
 ## Contacto
 - Empresarial: psideralis@gmail.com, https://www.facebook.com/Psideralis/
+- Profesional: https://github.com/DanZamora, https://gitlab.com/Foxlord
 - Estudiantil: daniel.zamoramata@ucr.ac.cr, https://www.researchgate.net/profile/Daniel-Zamora-Mata-2
 - Estudiantil: dazamora@uned.cr
 - Laboral: https://www.linkedin.com/in/dan-zamoram/
