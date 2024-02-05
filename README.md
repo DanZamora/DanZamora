@@ -1,7 +1,12 @@
 # Perfil
-Soy un programador costarricense que fundó su propia empresa Psideralis, donde trabajo como Ingeniero Senior en Jefe. En Psideralis ofrecemos servicios informáticos de calidad global con proveedores de la nube de alto nivel con software propio con licencias libres/abiertas y comerciales/privativas en un ecosistema hibrido de computación tecnocientífica, corporativa e industrial. En Psideralis hospedamos repositorios de proyectos libres/abiertos en ciberseguridad, ciencias de la computación, matemáticas y computación científica especializados en C/C++ con integración con NodeJS, .NET y Python. Ofrecemos soluciones comerciales/privativas para requerimientos de informática tecnocientífica y corporativa.
+Soy un técnico y programador costarricense que fundó su propia empresa Psideralis, donde trabajo como Ingeniero Senior en Jefe. Ofrecemos servicios informáticos en gestión y desarrollo de proyectos de calidad global, especializados en computación tecnocientífica y corporativa. Profesionalmente me dedico al emprendedurismo y ofrezco servicios profesionales en ingeniería de software, disponible para contratación a mediano/largo plazo.
 
-Personalmente estoy especializado en aprendizaje de maquina, HPC (computación de alto rendimiento) y computación tecnocientífica, principalmente en el área de ciencias naturales y humanas. Soy integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) en la sección BEND de Bioinformática de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y colaboró en proyectos del Espacio Universitario de Estudios Avanzados de la UCR y en la colaboración CERN-CONARE. He sido asistente de Lógica Simbólica en la Escuela de Filosofía de la Universidad de Costa Rica. Actualmente curso certificaciones del Centro Nacional de Alta Tecnología y el Centro Nacional de Computación Avanzada en HPC y computación científica.
+Personalmente estoy especializado en HPC (computación de alto rendimiento), computación científica, aprendizaje de maquina y reconocimiento de patrones. Soy integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) en la sección BEND de Bioinformática de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y he colaborado en proyectos de la Agencia Universitaria para la Gestión del Emprendedurismo y el Espacio Universitario de Estudios Avanzados en la Universidad de Costa Rica y en la colaboración CERN-CONARE del Consejo Nacional de Rectores y CENAT-CNCA del Centro Nacional de Alta Tecnología.
+
+# Profile 
+I am a costarrican technician and programmer who founded his own enterprise Psideralis, where I work as Senior Chief Engineer. We offer global quality informatics services in project management and development, specialized in technoscientific and corporate computing. As a professional, I am dedicated to entrepreneurship and I offer my professional services in software engineering, available to contract to mid/long term.
+
+Personally, I am specialized in HPC (high performance computing), scientific computing, machine learning and pattern recognition. I am member and collaborator at the PRIS-Lab (Laboratory for Pattern Recognition and Intelligent Systems) at the BEND section of Bioinformatics at the School of Electric Engineering at the University of Costa Rica, I had collaborate in projects of the Universitary Agency for the Entrepreneurial Management and the Universitary Space of Advanced Studies at the University of Costa Rica and in CERN-CONARE of the National Council of Rectors and CENAT-CNCA of the National Center of Advanced Technology collaborations.
 
 # Publicaciones:
 - Román-Brenes, R., Siles-Canales, F., & Zamora-Mata, D. (2020). Plataforma computacional de acoplamiento de proteínas basado en plantillas. Revista Tecnología En Marcha, 33(5), Pág. 96–100. https://doi.org/10.18845/tm.v33i5.5084
@@ -9,7 +14,7 @@ Personalmente estoy especializado en aprendizaje de maquina, HPC (computación d
 # Certificaciones:
 - CENAT/CNCA HPC School 2023.
 - CENAT/CNCA Scientific Computing Workshop 2023.
-
+- CENAT/CNCA HPC School 2024.
 
 # Repositorios:
 ## Psideralis:
@@ -29,11 +34,6 @@ Free Software:
 
 ## Commercial
 - HexMonitoriks: Cybersecurity Software
-- Noema Framework: Cross-platform GUI Library
-- Nous Studio: Programming 3.0 Development Studio
-- uLTRALogik: Mathematical Studio
-- HyperScientia: Technoscientific Studio
-- Ingenis: Engineering Studio
 
 ## Personal
 - Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking.
