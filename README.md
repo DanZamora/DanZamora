@@ -36,10 +36,10 @@ Free Software:
 - HexMonitoriks: Cybersecurity Software
 
 ## Personal
-- Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking.
-- Open Sideris: A astroinformatic modeller and visualizer, with custom parametric and initial conditions.
-- Open Parteoniks: A particular dynamics simulator specialized in collider mechanics.
-- Open Hyleoniks: A materials dynamics simulator, specialized in crystalls field condensation.
+- Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking. https://gitlab.com/Foxlord/openmeriks
+- Open Sideris: A astroinformatic modeller and visualizer, with custom parametric and initial conditions. https://gitlab.com/Foxlord/OpenSideris
+- Open Parteoniks: A particular dynamics simulator specialized in collider mechanics. https://github.com/DanZamora/OpenParteoniks
+- Open Hyleoniks: A materials dynamics simulator, specialized in crystalls field condensation. https://github.com/DanZamora/OpenHyleonics
  
 # Patrocinio:
 - Patreon: https://www.patreon.com/psideralis
