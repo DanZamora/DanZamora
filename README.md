@@ -21,13 +21,13 @@ As a computational scientist I am specialized in HPC (high performance computing
 
 Free Software:
 
-- Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit (2020-2030)
-- Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (2020-2030)
+- Cybersecurity: Binary Toolkit (2020-2030)
+- Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (Open: 2020-2030)
 - Computer Science: Organon Programatoriae (2020-2030)
 - Computer Science: Psideralis++ Standard Library: (2020-2030)
 - Computer Science: Psideralis Programming Utilities (2020-2030)
-- Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (2020-2030)
-- Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities (2020-2030)
+- Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (Open: 2020-2030)
+- Technoscientific Computation: Psideralis Technoscientific Utilities (2020-2030)
 - Engineering Computation: Psideralis Engineering Utilities (2020-2030)
 - Artistic Computation: Psideralis Arts & Craft Utilities (2020-2030)
 - Physiatric Computation: Psideralis Sportive & Physiatric Utilities (2020-2030)
@@ -36,10 +36,10 @@ Free Software:
 - HexMonitoriks: Cybersecurity Software
 
 ## Personal
-- Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking. https://gitlab.com/Foxlord/openmeriks
-- Open Sideris: A astroinformatic modeller and visualizer, with custom parametric and initial conditions. https://gitlab.com/Foxlord/OpenSideris
-- Open Parteoniks: A particular dynamics simulator specialized in collider mechanics. https://github.com/DanZamora/OpenParteoniks
-- Open Hyleoniks: A materials dynamics simulator, specialized in crystalls field condensation. https://github.com/DanZamora/OpenHyleonics
+- Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking.
+- Open Sideris: A astroinformatic modeller and visualizer, with custom parametric and initial conditions. 
+- Open Parteoniks: A particular dynamics simulator specialized in collider mechanics.
+- Open Hyleoniks: A materials dynamics simulator, specialized in crystalls field condensation. 
  
 # Patrocinio:
 - Patreon: https://www.patreon.com/psideralis
