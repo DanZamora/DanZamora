@@ -34,8 +34,6 @@ As a computational scientist I am specialized in HPC (high performance computing
 ## Psideralis:
 
 Free Software:
-
-- Cybersecurity: Binary Toolkit (2020-2030)
 - Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (Open: 2020-2030)
 - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (Open: 2020-2030)
 
