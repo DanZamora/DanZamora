@@ -22,12 +22,23 @@ Como científico computacional estoy especializado en HPC (computación de alto 
 
 # Profile 
 I am a technician, programmer and student of computer and electrical engineering, Costa Rican and founder of Psideralis, where I work as Senior Chief Engineer. Offer: 
-- IT and telematic services.
-- Management and development of projects and portfolios (set of projects) of global quality specialized in:
+- IT services:
+    - Design, management and analysis of databases.
+    - Software modeling.
+    - Web application development.
+    - Desktop application development.
+    - Mobile application development.
+    - Business computing.
+    - Maintenance and repair of computer equipment.
+    - Technical support.
+- Management and development of projects and portfolios of global quality specialized in:
     - Technoscientific Computing.
-    - Industrial Computing.
-    - Corporate computing.
+    - Corporate Computing.
     - Business Computing.
+
+From the request for requirements and the design of systems, to the management of development teams in integration and continuous delivery, to the end of the product cycle and service closure. We specialize in both product development and digital logistics so that the product reaches the customer quickly, efficiently and in a timely manner with built-in security. 
+
+Personally, I am dedicated to entrepreneurship and offer professional services in software engineering, available for medium/long-term contracting specialized in development and cybersecurity services.
 
 As a computational scientist I am specialized in HPC (high performance computing), scientific computing, machine learning and pattern recognition and artificial intelligence. I am member and collaborator at the PRIS-Lab (Laboratory for Pattern Recognition and Intelligent Systems) at the BEND section of Bioinformatics at the School of Electric Engineering at the University of Costa Rica, I had collaborate in projects of the Universitary Agency for the Entrepreneurial Management and the Universitary Space of Advanced Studies at the University of Costa Rica and in CERN-CONARE of the National Council of Rectors and CENAT-CNCA of the National Center of Advanced Technology collaborations.
 
