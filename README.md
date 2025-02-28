@@ -1,7 +1,15 @@
 # Perfil
 Soy un técnico, programador y estudiante de ingeniería informática y eléctrica, costarricense y fundador de Psideralis, donde trabajo como Ingeniero Senior en Jefe. Ofrecemos:
-- Servicios informáticos y telemáticos.
-- Gestión y desarrollo de proyectos y portafolios (conjunto de proyectos) de calidad global especializados en:
+- Servicios informáticos:
+    - Administración de bases de datos.
+    - Modelado de software.
+    - Desarrollo de aplicaciones web.
+    - Desarrollo de aplicaciones de escritorio.
+    - Desarrollo de aplicaciones moviles. 
+    - Informática empresarial.
+    - Mantenimiento y reparación de equipo de computación.
+    - Soporte técnico.
+- Gestión y desarrollo de proyectos y portafolios de calidad global especializados en:
     - Computación Tecnocientífica.
     - Computación Industrial.
     - Computación Corporativa.
