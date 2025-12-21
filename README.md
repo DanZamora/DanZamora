@@ -1,5 +1,5 @@
 # Perfil
-Soy un técnico, programador y estudiante de ingeniería informática y eléctrica, costarricense y fundador de Psideralis, donde trabajo como Ingeniero Senior en Jefe. Ofrecemos:
+Soy técnico, programador y estudiante egresado de ingeniería informática, costarricense y fundador de Psideralis. Ofrecemos:
 - Servicios informáticos:
     - Diseño, gestión y análisis de bases de datos.
     - Modelado de software.
@@ -14,12 +14,12 @@ Soy un técnico, programador y estudiante de ingeniería informática y eléctri
     - Computación Corporativa.
     - Computación de Negocio.
 
-Personalmente me dedico al emprendedurismo y ofrezco servicios profesionales en ingeniería de software, disponible para contratación a mediano/largo plazo especializado en servicios desarrollo y ciberseguridad.
+Personalmente me dedico al emprendedurismo y ofrezco servicios profesionales en ingeniería de software, disponible para contratación a mediano/largo plazo especializado en servicios ingenieria de software y computación científica y de alto rendimiento.
 
-Como científico computacional estoy especializado en HPC (computación de alto rendimiento), computación técnica y científica, aprendizaje de maquina y reconocimiento de patrones e inteligencia artificial. Integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) en la sección BEND de Bioinformática de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y he colaborado en proyectos de la Agencia Universitaria para la Gestión del Emprendedurismo y el Espacio Universitario de Estudios Avanzados en la Universidad de Costa Rica y en la colaboración CERN-CONARE del Consejo Nacional de Rectores y CENAT-CNCA del Centro Nacional de Alta Tecnología. 
+Como científico computacional estoy especializado en HPC (computación de alto rendimiento), computación científica, aprendizaje de maquina y reconocimiento de patrones e inteligencia artificial. Integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) en la sección BEND de Bioinformática de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y he colaborado en proyectos de la Agencia Universitaria para la Gestión del Emprendedurismo y el Espacio Universitario de Estudios Avanzados en la Universidad de Costa Rica y en la colaboración CERN-CONARE del Consejo Nacional de Rectores y CENAT-CNCA del Centro Nacional de Alta Tecnología. 
 
 # Profile 
-I am a technician, programmer and student of computer and electrical engineering, Costa Rican and founder of Psideralis, where I work as Senior Chief Engineer. Offer: 
+I am a technician, programmer and egressed student of computer engineering, Costa Rican and founder of Psideralis. Offer: 
 - IT services:
     - Design, management and analysis of databases.
     - Software modeling.
@@ -34,7 +34,7 @@ I am a technician, programmer and student of computer and electrical engineering
     - Corporate Computing.
     - Business Computing.
 
-Personally, I am dedicated to entrepreneurship and offer professional services in software engineering, available for medium/long-term contracting specialized in development and cybersecurity services.
+Personally, I am dedicated to entrepreneurship and offer professional services in software engineering, available for medium/long-term contracting specialized in software engineering, scientific and high performance computing.
 
 As a computational scientist I am specialized in HPC (high performance computing), scientific computing, machine learning and pattern recognition and artificial intelligence. I am member and collaborator at the PRIS-Lab (Laboratory for Pattern Recognition and Intelligent Systems) at the BEND section of Bioinformatics at the School of Electric Engineering at the University of Costa Rica, I had collaborate in projects of the Universitary Agency for the Entrepreneurial Management and the Universitary Space of Advanced Studies at the University of Costa Rica and in CERN-CONARE of the National Council of Rectors and CENAT-CNCA of the National Center of Advanced Technology collaborations.
 
@@ -65,5 +65,5 @@ Free Software:
 ## Contacto
 - Empresarial: psideralis@gmail.com, https://www.facebook.com/Psideralis/
 - Profesional: https://github.com/DanZamora, https://gitlab.com/Foxlord
-- Estudiantil: daniel.zamoramata@ucr.ac.cr, https://www.researchgate.net/profile/Daniel-Zamora-Mata-2
+- Estudiantil: dazamora@uned.cr, https://www.researchgate.net/profile/Daniel-Zamora-Mata-2
 - Laboral: https://www.linkedin.com/in/dan-zamoram/
