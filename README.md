@@ -14,8 +14,6 @@ Soy un técnico, programador y estudiante de ingeniería informática y eléctri
     - Computación Corporativa.
     - Computación de Negocio.
 
-Desde la solicitud de requerimientos y el diseño de sistemas, hasta la gestión de equipos de desarrollo en integración y entrega continua, hasta la finalización de ciclo de producto y clausura de servicio. Nos especializados tanto en desarrollar el producto como en la logistica digital para que el producto llegue al cliente de forma rápida, eficiente y oportuna con seguridad integrada. 
-
 Personalmente me dedico al emprendedurismo y ofrezco servicios profesionales en ingeniería de software, disponible para contratación a mediano/largo plazo especializado en servicios desarrollo y ciberseguridad.
 
 Como científico computacional estoy especializado en HPC (computación de alto rendimiento), computación técnica y científica, aprendizaje de maquina y reconocimiento de patrones e inteligencia artificial. Integrante colaborador de PRIS-Lab (Laboratorio de Reconocimiento de Patrones y Sistemas Inteligentes) en la sección BEND de Bioinformática de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y he colaborado en proyectos de la Agencia Universitaria para la Gestión del Emprendedurismo y el Espacio Universitario de Estudios Avanzados en la Universidad de Costa Rica y en la colaboración CERN-CONARE del Consejo Nacional de Rectores y CENAT-CNCA del Centro Nacional de Alta Tecnología. 
@@ -35,8 +33,6 @@ I am a technician, programmer and student of computer and electrical engineering
     - Technoscientific Computing.
     - Corporate Computing.
     - Business Computing.
-
-From the request for requirements and the design of systems, to the management of development teams in integration and continuous delivery, to the end of the product cycle and service closure. We specialize in both product development and digital logistics so that the product reaches the customer quickly, efficiently and in a timely manner with built-in security. 
 
 Personally, I am dedicated to entrepreneurship and offer professional services in software engineering, available for medium/long-term contracting specialized in development and cybersecurity services.
 
