@@ -49,10 +49,6 @@ As a computational scientist I am specialized in HPC (high performance computing
 # Repositorios:
 ## Psideralis:
 
-Free Software:
-- Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (Open: 2020-2030)
-- Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (Open: 2020-2030)
-
 ## Personal
 - Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking.
 - Open Sideris: A astroinformatic modeller and visualizer, with custom parametric and initial conditions. 
