@@ -52,14 +52,3 @@ As a computational scientist I am specialized in HPC (high performance computing
 ## Personal
 - Open Meriks: A multiphysics molecular dynamics simulator specialized in protein pocket and docking.
 - Open Sideris: A astroinformatic modeller and visualizer, with custom parametric and initial conditions. 
- 
-# Patrocinio:
-- Patreon: https://www.patreon.com/psideralis
-- Ko-fi: https://ko-fi.com/psideralis
-- Paypal: https://www.paypal.com/paypalme/psideralis
-
-## Contacto
-- Empresarial: psideralis@gmail.com, https://www.facebook.com/Psideralis/
-- Profesional: https://github.com/DanZamora, https://gitlab.com/Foxlord
-- Estudiantil: dazamora@uned.cr, https://www.researchgate.net/profile/Daniel-Zamora-Mata-2
-- Laboral: https://www.linkedin.com/in/dan-zamoram/
